@@ -1,5 +1,15 @@
 # Introduction into IBM Cloud Schematics
 
+
+This lesson covers the following items: 
+- What is Schematics?
+- Why should you use Schematics? 
+- What are the benefits of using Schematics?
+- How does Schematics work? 
+- What open source technologies are integrated into Schematics?
+
+
+
 ## What is IBM Cloud Schematics?
 
 IBM Cloud Schematics provides powerful tools to automate the cloud service provisioning and management process, the configuration and operation of your cloud resources, and the deployment of your app workloads.
