@@ -6,3 +6,4 @@ This lesson covers:
 - Maybe: how to set up logdna, sysdig, activity tracker for schematics and why you want to do that
 - Reference material for how to read Terraform/ Ansible logs. 
 - Where do get IBM support (link to public Slack, communities, IBM support, etc)
+- related link, such as documentation, API, etc. 
