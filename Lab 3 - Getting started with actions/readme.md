@@ -11,5 +11,5 @@ This lesson cover:
 - Maybe: Reference to Ansible Galaxy
 - Maybe: Reference to IBM-provided Ansible playbooks
 - Lab exercise: Demonstrate how to create a Schematics action.
-- Suggestion for free example: N/A as it requires a host to be provisioned
-- Suggestion for real world example (will cost money): Setup the LAMP stack on the bastion host and VSI that we created in the Schematics workspace lab
+  - Suggestion for free example: N/A as it requires a host to be provisioned
+  - Suggestion for real world example (will cost money): Setup the LAMP stack on the bastion host and VSI that we created in the Schematics workspace lab
