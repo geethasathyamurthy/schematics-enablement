@@ -18,6 +18,10 @@ This lesson cover:
 ## What is Terraform?
 [Terraform](https://terraform.io/) is an open source project that lets you specify your cloud infrastructure resources and services by using a high-level scripting language. Your specification is stored in a Terraform configuration file. In order to abstract the APIs and complexity of the cloud resource provisioning and management process to the user, cloud providers create a plug-in for Terraform that contains the information for how to connect to the cloud provider and what APIs to call to work with a certain cloud resource. IBM's plug-in is called the IBM Cloud Provider plug-in for Terraform.
 
+### Terraform properties
+<img width="1213" alt="Screenshot 2021-07-14 at 5 47 27 PM" src="https://user-images.githubusercontent.com/43596586/125620577-9b60b023-d815-4d98-9846-815825e2902b.png">
+
+
 ## What are Schematics workspaces
 Schematics workspaces deliver Terraform-as-a-Service capabilities to you so that you can automate the provisioning and management of your IBM Cloud resources, and rapidly build, duplicate, and scale complex, multi-tier cloud environments.
 
@@ -29,3 +33,21 @@ To start provisioning IBM Cloud services with Schematics and Terraform, you need
 
 - **IBM Cloud account**: Register for an IBM Cloud account or use an existing IBM Cloud account. 
 - **Schematics permissions**: 
+
+Terraform
+•Open Source (MPL 2.0)
+•Created by HashiCorp in 2014
+•Written in Golang
+Pluggable Architecture 
+
+Develop
+Write your template
+
+Plan
+Verify resources to be provisioned
+
+Apply
+Create resources 
+
+Update
+Make changes to infrastructure
