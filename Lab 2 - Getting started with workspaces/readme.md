@@ -23,7 +23,7 @@ This lesson cover:
 
 ## What is IBM Cloud provider for Terraform?
 
-
+<img width="1213" alt="Terraform properties" src="images/IBMcloudprovider.png">
 
 ## What are Schematics workspaces
 Schematics workspaces deliver Terraform-as-a-Service capabilities to you so that you can automate the provisioning and management of your IBM Cloud resources, and rapidly build, duplicate, and scale complex, multi-tier cloud environments.
