@@ -29,7 +29,7 @@ You have an IBM Cloud account with right account plan, by default all the new IB
 
 ### Design the requirement 
 
-![Create IBM Cloud Object Storage by using Terraform](schematics-enablement/Lab 2 - Getting started with workspaces/images/ex1_cos_usecase.png)
+![Create IBM Cloud Object Storage by using Terraform](/images/ex1_cos_usecase.png)
 
 ### Configure the Terraform files
 
